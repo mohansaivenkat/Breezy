@@ -36,11 +36,11 @@ Breezy is a modern weather application that provides real-time weather updates a
 ---
 
 ## 📦 Installation  
-   git clone https://github.com/your-username/breezy-weather.git
-   cd breezy-weather
-   npm install
-   VITE_WEATHER_API_KEY=your_openweather_api_key
-   npm run dev
+   - git clone https://github.com/your-username/breezy-weather.git
+   - cd breezy-weather
+   - npm install
+   - VITE_WEATHER_API_KEY=your_openweather_api_key
+   - npm run dev
 
 ---
 
