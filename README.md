@@ -5,7 +5,7 @@ Breezy is a modern weather application that provides real-time weather updates a
 ---
 
 ## Website
-![Breezy Weather App](https://breezy-nu.vercel.app/)  
+[Breezy Weather App](https://breezy-nu.vercel.app/)  
 
 
 ---
