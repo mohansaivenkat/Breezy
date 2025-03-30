@@ -4,9 +4,9 @@ Breezy is a modern weather application that provides real-time weather updates a
 
 ---
 
-## 📸 Preview  
-![Breezy Weather App](https://via.placeholder.com/800x400?text=Breezy+Weather+App+Preview)  
-*Replace with actual screenshot*
+## Website
+![Breezy Weather App](https://breezy-nu.vercel.app/)  
+
 
 ---
 
@@ -58,8 +58,8 @@ Breezy is a modern weather application that provides real-time weather updates a
 ---
 
 ## 📞 Contact  
-**Developer**: Jane Doe  
-**Email**: [jane.doe@example.com](mailto:jane.doe@example.com)  
-**GitHub**: [@jane-doe](https://github.com/jane-doe)  
-**LinkedIn**: [Jane Doe](https://linkedin.com/in/jane-doe)  
-**Project Repository**: [Breezy Weather App](https://github.com/jane-doe/breezy-weather)  
+**Developer**: Mohan Sai Venkat   
+**Email**: [mohansaivenkat2004@gmail.com](mailto:mohansaivenkat2004@gmail.com)  
+**GitHub**: [@mohansaivenkat](https://github.com/mohansaivenkat)  
+**LinkedIn**: [Mohan Sai Venkat](https://linkedin.com/in/mohan-sai-venkat)  
+**Project Repository**: [Breezy Weather App](https://breezy-nu.vercel.app/)  
