@@ -1,12 +1,65 @@
-# React + Vite
+# 🌤 Breezy - Weather App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Breezy is a modern weather application that provides real-time weather updates and a **5-day forecast** for cities worldwide. It features a sleek, responsive UI with **dark mode support** and country selection.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview  
+![Breezy Weather App](https://via.placeholder.com/800x400?text=Breezy+Weather+App+Preview)  
+*Replace with actual screenshot*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features  
+- ✅ **Real-time Weather Updates** – Current temperature, humidity, wind speed, and conditions  
+- ✅ **5-Day Forecast** – Upcoming predictions with dynamic weather icons  
+- ✅ **Dark/Light Mode** – Theme toggle for better readability  
+- ✅ **Responsive UI** – Mobile-friendly across all screen sizes  
+- ✅ **City & Country Search** – Find weather by location  
+- ✅ **Interactive Design** – Smooth transitions and hover effects  
+
+---
+
+## 🛠 Tech Stack  
+### **Frontend:**  
+- React.js (Vite)  
+- Tailwind CSS  
+- React Icons  
+- Swiper.js (Forecast carousel)  
+
+### **API:**  
+- OpenWeatherMap API  
+
+### **State Management:**  
+- React Hooks (useState, useEffect)  
+
+---
+
+## 📦 Installation  
+   git clone https://github.com/your-username/breezy-weather.git
+   cd breezy-weather
+   npm install
+   VITE_WEATHER_API_KEY=your_openweather_api_key
+   npm run dev
+
+---
+
+## 🎯 Usage  
+1. Enter city name & country code (e.g., "Paris, FR") in the search fields  
+2. Click the **Search** button to fetch real-time weather data  
+3. View current weather metrics:  
+   - Temperature (°C/°F)  
+   - Humidity (%)  
+   - Wind speed (km/h)  
+   - Sunrise/Sunset times  
+4. Swipe horizontally to view the **5-day forecast**  
+5. Toggle between themes using the **🌙 Dark Mode**/**☀️ Light Mode** button  
+
+---
+
+## 📞 Contact  
+**Developer**: Jane Doe  
+**Email**: [jane.doe@example.com](mailto:jane.doe@example.com)  
+**GitHub**: [@jane-doe](https://github.com/jane-doe)  
+**LinkedIn**: [Jane Doe](https://linkedin.com/in/jane-doe)  
+**Project Repository**: [Breezy Weather App](https://github.com/jane-doe/breezy-weather)  
